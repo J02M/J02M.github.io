@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 ```
 
-![lampe](https://github.com/J02M/J02M.github.io/blob/master/images/lampe.png)
+![lampe](https://j02m.github.io/images/lampe.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
