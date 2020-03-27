@@ -19,9 +19,11 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![lampe](https://github.com/J02M/J02M.github.io/images/lampe.png)
+
 
 ```
+
+![lampe](https://github.com/J02M/J02M.github.io/images/lampe.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
